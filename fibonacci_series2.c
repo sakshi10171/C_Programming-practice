@@ -1,4 +1,4 @@
-//C Program to print Fibonacci Series
+//C Program to print Fibonacci Series (Alternate Method)
 
 #include<stdio.h>
 #include<stdlib.h>
@@ -28,4 +28,5 @@ int main()
 	}
 
 	return 0;
+
 }
