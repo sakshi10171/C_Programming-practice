@@ -21,7 +21,7 @@ These programs help in understanding array operations and logic building.
 - Array input and output  
 - Traversing arrays using loops  
 - Searching techniques  
-- Sorting algorithms (Bubble Sort)  
+- Sorting algorithms
 - Basic problem-solving using arrays  
 
 ---
